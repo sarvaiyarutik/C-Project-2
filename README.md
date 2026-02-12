@@ -43,7 +43,7 @@ printf and scanf
 
 (Add your screenshot image in project folder and use this line)
 
-![Grade Calculator Output](Screenshot1.png)
+<img width="1564" height="929" alt="Screenshot 2026-02-12 181528" src="https://github.com/user-attachments/assets/af1bc0b8-d96b-4f55-b4ea-f7de14236657" />
 
 📌 2️⃣ Normal Calculator
 📖 Description
@@ -71,7 +71,8 @@ Character input
 User input handling
 
 📷 Output Screenshot
-![Calculator Output](Screenshot2.png)
+
+<img width="1560" height="954" alt="Screenshot 2026-02-12 181421" src="https://github.com/user-attachments/assets/22d26677-5bb5-49c3-8799-21c0f6d2b456" />
 
 🚀 How to Run the Program
 🔹 Compile
